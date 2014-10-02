@@ -1,1 +1,6 @@
 .DS*
+*.sublime-project
+*.sublime-workspace
+coverage/*
+build/built/*
+node_modules/*
