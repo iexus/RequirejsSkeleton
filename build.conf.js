@@ -1,7 +1,7 @@
 {
     baseUrl: '.',
     optimize: 'none',
-    name: 'lib/almond',
+    name: 'vendor/almond',
     include: ['src/MY_PROJECT_START'],
     out: 'build/built/MyProjectBuilt.js',
     wrap: {
